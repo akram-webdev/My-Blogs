@@ -42,7 +42,7 @@ export default function Example() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="/" className="flex items-center">
+        <a href="Contact" className="flex items-center">
           Contact
         </a>
       </Typography>
@@ -52,7 +52,7 @@ export default function Example() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="/" className="flex items-center">
+        <a href="Services" className="flex items-center">
           Services
         </a>
       </Typography>
@@ -62,7 +62,7 @@ export default function Example() {
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="/" className="flex items-center">
+        <a href="About" className="flex items-center">
           About
         </a>
       </Typography>

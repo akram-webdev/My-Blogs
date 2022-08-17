@@ -13,7 +13,7 @@ const Blogs = () => {
     }, [])
     
     return (
-        <div>
+        <div id='Blogs' className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
              {
                 blogs.map(blog => <Blog 
 
