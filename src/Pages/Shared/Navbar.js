@@ -125,8 +125,8 @@ export default function Example() {
       </div>
       <MobileNav open={openNav}>
         {navList}
-        <Button variant="gradient" size="sm" fullWidth className="mb-2">
-          <span>Buy Now</span>
+        <Button variant="gradient" size="sm" className="mb-2">
+         <a href="Login"><span>Login</span></a>
         </Button>
       </MobileNav>
     </Navbar>
