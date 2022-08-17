@@ -1,6 +1,6 @@
 import {
-    Button,
-    IconButton, MobileNav, Navbar, Typography
+  Button,
+  IconButton, MobileNav, Navbar, Typography
 } from "@material-tailwind/react";
 import { useEffect, useState } from "react";
  
@@ -18,61 +18,72 @@ export default function Example() {
     <ul className="mb-4 mt-2 flex flex-col gap-2 lg:mb-0 lg:mt-0 lg:flex-row lg:items-center lg:gap-6">
       <Typography
         as="li"
-        variant="small"
+       
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
-          Pages
+        <a href="/" className="flex items-center">
+          Home
         </a>
       </Typography>
       <Typography
         as="li"
-        variant="small"
+       
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
-          Account
+        <a href="Blogs" className="flex items-center">
+          Blogs
         </a>
       </Typography>
       <Typography
         as="li"
-        variant="small"
+       
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
-          Blocks
+        <a href="/" className="flex items-center">
+          Contact
         </a>
       </Typography>
       <Typography
         as="li"
-        variant="small"
+       
         color="blue-gray"
         className="p-1 font-normal"
       >
-        <a href="#" className="flex items-center">
-          Docs
+        <a href="/" className="flex items-center">
+          Services
         </a>
       </Typography>
+      <Typography
+        as="li"
+       
+        color="blue-gray"
+        className="p-1 font-normal"
+      >
+        <a href="/" className="flex items-center">
+          About
+        </a>
+      </Typography>
+    
+    
     </ul>
   );
  
   return (
-    <Navbar className="mx-auto max-w-screen-xl py-2 px-4 lg:px-8 lg:py-4">
+    <Navbar className="mx-auto sticky top-0 max-w-screen-xl py-2 px-4 lg:px-8 lg:py-4">
       <div className="container mx-auto flex items-center justify-between text-blue-gray-900">
         <Typography
           as="a"
-          href="#"
-          variant="small"
-          className="mr-4 cursor-pointer py-1.5 font-normal"
+          href="/"
+          className="mr-4 cursor-pointer py-1.5 font-normal "
         >
           <span>Material Tailwind</span>
         </Typography>
         <div className="hidden lg:block">{navList}</div>
         <Button variant="gradient" size="sm" className="hidden lg:inline-block">
-          <span>Buy Now</span>
+        <a href="Login">Login</a>
         </Button>
         <IconButton
           variant="text"
