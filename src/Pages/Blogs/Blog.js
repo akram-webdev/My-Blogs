@@ -5,7 +5,8 @@ const Blog = ({blog}) => {
     const {_id, img, name, description} = blog
     return (
    <>
- <div className=' mt-20 p-1 shadow-xl bg-gradient-to-r from-white via-blue-200 to-blue-300 rounded-xl'>
+  
+ <div className='hover:duration-150 mt-20 p-1 shadow-xl bg-gradient-to-r from-white via-blue-200 to-blue-300 rounded-xl'>
  <div class="max-w-md px-8 py-4  bg-gradient-to-r from-gray-200   mx-auto bg-white rounded-lg shadow-lg dark:bg-gray-800">
         <div class="flex justify-center -mt-16 md:justify-end">
             <img class="object-cover w-40 h-40 rounded-full dark:border-blue-400" alt="Testimonial avatar" src={img}/>
@@ -16,8 +17,11 @@ const Blog = ({blog}) => {
         <p class="mt-2 text-gray-600 dark:text-gray-200">Lorem ipsum dolor sit amet consectetur adipisicing elit. Quae dolores deserunt ea doloremque natus error, rerum quas odio quaerat nam ex commodi hic, suscipit in a veritatis pariatur minus consequuntur!</p>
         
         <div class="flex justify-end mt-4">
-        <button type="button" class=" p-2 rounded-lg text-white bg-gradient-to-r from-blue-200 to-blue-500 ...">
+        {/* <button type="button" class=" p-2 rounded-lg text-white bg-gradient-to-r from-blue-200 to-blue-500 ...">
   Read More
+</button> */}
+<button class=" p-2 text-white rounded-lg transition ease-in-out delay-150 bg-gradient-to-r from-blue-200 to-blue-500 hover:-translate-y-1 hover:scale-110 hover:bg-indigo-500 duration-300 ...">
+  Save Changes
 </button>
         </div>
     </div>

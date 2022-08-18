@@ -2,14 +2,14 @@
   {
     "_id": "1",
     "index": 0,
-    "img": "https://i.pinimg.com/564x/d5/73/2e/d5732ef24c8c3f3ad0132a61d0b0996a.jpg",
+    "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png",
     "name": "HTML5",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
     "_id": "2",
     "index": 1,
-    "img": "https://i.pinimg.com/564x/3f/83/9a/3f839a4a5688116dfb5f9f81eaa8d067.jpg",
+    "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-512.png",
 
     "name": "CSS",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
@@ -17,21 +17,21 @@
   {
     "_id": "3",
     "index": 2,
-    "img": "https://i.pinimg.com/736x/0c/de/d3/0cded3a3276425911d55a2552bf361bf.jpg",
+    "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png",
     "name": "JavaScript",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
     "_id": "4",
     "index": 3,
-    "img": "https://i.pinimg.com/564x/da/1c/1b/da1c1ba16e52114d1a59e9ad666a4ae6.jpg",
+    "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png",
     "name": "ReactJs",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
     "_id": "6",
     "index": 4,
-    "img": "https://i.pinimg.com/564x/08/86/77/0886779176db12da5565ca4b9541e2b8.jpg",
+    "img": "https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png",
 
     "name": "NodeJs",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
@@ -39,7 +39,7 @@
   {
     "_id": "7",
     "index": 5,
-    "img": "https://i.pinimg.com/564x/e8/ab/b4/e8abb49f605c7f61553c8268ef0a56aa.jpg",
+    "img": "https://img.icons8.com/color/452/mongodb.png",
 
     "name": "MongoDB",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"

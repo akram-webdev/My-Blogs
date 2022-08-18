@@ -1,6 +1,9 @@
 import React from 'react';
+import { AiOutlineDown } from "react-icons/ai";
+
 
 const Banner = () => {
+    
     return (
      
     <header>
@@ -10,8 +13,11 @@ const Banner = () => {
         <div class="flex items-center justify-center w-full h-full bg-gray-900 bg-opacity-50">
             <div class="text-center">
                 <h1 class="text-2xl font-semibold text-white uppercase lg:text-3xl">Welcome to My  <span class="text-blue-400 underline">Blog</span></h1>
-              <button className=' bg-blue-500 mt-5 p-2 rounded-lg text-white'>Get Started</button>
+              
+                
+ 
             </div>
+            <span className= ' animate-bounce bold  text-blue-500 text-5xl text-center'>   <AiOutlineDown /> </span>
         </div>
     </div>
 </header>

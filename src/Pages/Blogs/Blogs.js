@@ -13,16 +13,25 @@ const Blogs = () => {
     }, [])
     
     return (
-        <div id='Blogs' className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
-             {
-                blogs.map(blog => <Blog 
+       <>
+      
+      <div id='blogs' className=''>
+          hello
+      <div  className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
+            
+            {
+               blogs.map(blog => <Blog 
 
-                    key={blog._id}
-                    blog={blog}
-                
-                ></Blog>)
-             }
-        </div>
+                   key={blog._id}
+                   blog={blog}
+               
+               ></Blog>)
+            }
+
+
+       </div>
+      </div>
+       </>
     );
 };
 
