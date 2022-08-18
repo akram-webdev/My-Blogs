@@ -16,8 +16,8 @@ const Blogs = () => {
        <>
       
       <div id='blogs' className=''>
-          hello
-      <div  className='grid grid-cols-1 lg:grid-cols-3 gap-5'>
+           <h1 className='text-5xl text-center mt-12 '>𝐌𝐲 𝐁𝐥𝐨𝐠𝐬</h1>
+      <div  className='grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-5'>
             
             {
                blogs.map(blog => <Blog 
