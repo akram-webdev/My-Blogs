@@ -43,20 +43,16 @@ export default function Example() {
   return (
     <Navbar className="sticky top-0 rounded-none max-w-full ">
       <div className="container mx-auto flex items-center justify-between text-blue-gray-900">
-        <Typography
-          as="a"
-          href="/"
-          className="mr-4 cursor-pointer py-1.5 font-normal "
-        >
-          <span>Material Tailwind</span>
-        </Typography>
+       <Link to="/">
+          <span>AH Fahim</span>
+       </Link>
         <div className="hidden lg:block">{navList}</div>
        <Link to="/Login">
          
        <Button
             variant="gradient"
-            size="xl"
-            className="hidden lg:inline-block"
+        
+            className="hidden text-lg font-bold lg:inline-block"
           >
             LOGIN
       
@@ -104,11 +100,11 @@ export default function Example() {
       </div>
       <MobileNav open={openNav}>
         {navList}
+        <Link to="/login">
         <Button variant="gradient" size="sm" className="mb-2">
-          <a href="Login">
-            <span>Login</span>
-          </a>
+           LOGIN
         </Button>
+        </Link>
       </MobileNav>
     </Navbar>
   );

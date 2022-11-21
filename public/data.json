@@ -1,13 +1,15 @@
 [
   {
-    "_id": "1",
     "index": 0,
     "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-html-markup-develop-layout-language-512.png",
     "name": "HTML5",
-    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
+    "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam",
+    "blog1": {
+      "qus": "what is javascript?",
+      "ans": "hello hossain explore how to add"
+    }
   },
   {
-    "_id": "2",
     "index": 1,
     "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-css-style-develop-layout-language-512.png",
 
@@ -15,21 +17,18 @@
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
-    "_id": "3",
     "index": 2,
     "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-512.png",
     "name": "JavaScript",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
-    "_id": "4",
     "index": 3,
     "img": "https://cdn2.iconfinder.com/data/icons/designer-skills/128/react-512.png",
     "name": "ReactJs",
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
-    "_id": "6",
     "index": 4,
     "img": "https://cdn0.iconfinder.com/data/icons/designer-skills/128/node-js-512.png",
 
@@ -37,7 +36,6 @@
     "description": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Odit tenetur neque aliquam animi ab possimus ea ad. Necessitatibus voluptatum ea quidem. Pariatur, quis! Molestias esse a assumenda ullam, suscipit quaerat magni nihil maxime hic voluptates unde enim repellendus aliquid quae corrupti, placeat nulla ad alias nesciunt voluptate eaque aperiam est nam. Labore odit, perferendis dolore mollitia enim voluptate accusamus tenetur veritatis ea harum nobis aspernatur fugiat nulla iste ratione dolores facilis excepturi! Dolorem consequuntur iusto eligendi nesciunt reprehenderit sed cumque veniam. Incidunt at distinctio consectetur possimus necessitatibus iusto labore, excepturi accusamus molestiae nesciunt dolore sapiente sint fuga blanditiis nihil laboriosam"
   },
   {
-    "_id": "7",
     "index": 5,
     "img": "https://img.icons8.com/color/452/mongodb.png",
 
